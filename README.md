@@ -3,7 +3,7 @@
 The aim of this repository is to familiarise students with Git/GitHub. Students can send a Pull Request(PR) in this repository to add their details, which will give them good overview of the concept.
 
 ## Simple Task
-1. Add you details to the next section, according to the following format:
+1. Add you details to the next section, according to the following format:j
 
 (Leave one line before starting)
 - Name: Abc xyz
